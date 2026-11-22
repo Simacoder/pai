@@ -1,0 +1,6 @@
+{
+  "note": "Fill these in with the guess you wrote down BEFORE looking at the data. The page shows the section only when text is not empty. Example of the form: text = 'I'm 70% sure that ...', confidence = 70.",
+  "text": "",
+  "confidence": null,
+  "verdict": ""
+}

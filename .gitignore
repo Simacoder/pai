@@ -1,0 +1,6 @@
+node_modules
+dist
+*.pgn
+*.pgn.zst
+*.pgn.bz2
+data_blitz/*.csv

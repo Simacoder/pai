@@ -1,0 +1,7 @@
+{
+  "source": "Printed by fit_calibration.py --final on 22 November 2026 and saved in test_results.txt. Improvement of the fitted model over Elo-400 on the test set, in natural-log loss units and Brier units. 95% intervals from resampling players.",
+  "games": 118298,
+  "rounds": 1000,
+  "logloss": {"mean": 0.00295, "ci95": [0.00248, 0.00337]},
+  "brier": {"mean": 0.00098, "ci95": [0.00081, 0.00113]}
+}

@@ -1,0 +1,42 @@
+{
+  "created_utc": "2026-11-22T03:14:02+00:00",
+  "source_file": "lichess_db_standard_rated_2017-02.pgn.zst",
+  "args": {
+    "path": "lichess_db_standard_rated_2017-02.pgn.zst",
+    "out": "data_blitz",
+    "time_control": "blitz",
+    "sample": 0.1,
+    "seed": 2026,
+    "min_rating": 0,
+    "terminations": [
+      "Normal",
+      "Time forfeit"
+    ],
+    "train_end": "2017.02.14",
+    "val_end": "2017.02.21",
+    "max_games": 0
+  },
+  "split_boundaries": {
+    "train_end": "2017.02.14",
+    "val_end": "2017.02.21"
+  },
+  "rows": {
+    "train": 232664,
+    "val": 117719,
+    "test": 118298
+  },
+  "filter_counts": {
+    "games_seen": 10194939,
+    "dropped_other_time_control": 541901,
+    "kept": 468681,
+    "dropped_termination": 4540,
+    "dropped_no_time_control": 4400,
+    "dropped_no_result": 164
+  },
+  "sha256": {
+    "train": "414553b23d95593b163945f938c017c4ae0c892b59e89c7ce184d49dc559e565",
+    "val": "e2b75934e65d89402183b83eef31edaf924acba16077f49c8cbc2d720adb9adc",
+    "test": "c78c227b55b45c3099f1150f0a98f9cb2a3872a5eb1113b4ba8ef0c996c45442"
+  },
+  "note": "test.csv is read-only; open it once, at the end. If the hash changes, the lock is broken."
+}
