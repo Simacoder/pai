@@ -1,5 +1,8 @@
 # Probability for AI final project starter bundle
 [Live demo](https://pai-sigma-teal.vercel.app/)
+
+
+
 This folder has templates and instructions for your final project. You can use it with any AI tool.
 
 **Is the final project optional?** Yes, it's optional. Finishing it adds a gold star to your certificate that links to your project, and it can also make up one missed section.
